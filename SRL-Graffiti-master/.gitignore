@@ -1,0 +1,7 @@
+server/war/WEB-INF/appengine-generated/*
+
+server/war/WEB-INF/classes/*
+*.DS_Store
+*.class
+gen
+bin
